@@ -1,6 +1,6 @@
 
 # Bayesian Personalized Ranking Neural Network
-Pytorch implementation of Bayesian Personalized Ranking from implicit feedback for top-N item recommendation.
+Pytorch implementation of Bayesian Personalized Ranking from implicit feedback
 
 ### Original Paper
 - Bayesian Personalized Ranking from Implicit Feedback (2009), S Rendle, C Freudenthaler, Z Gantner.
