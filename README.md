@@ -5,3 +5,5 @@ I'm interested in recommender system and deep learning. The purpose of this repo
 
 ## List
 - [Bayesian Personalized Ranking from Implicit Feedback (2009), S Rendle, C Freudenthaler, Z Gantner.](https://github.com/Sein-Jang/Recommender-System/tree/master/BPR-%20Bayesian%20Personalized%20Ranking%20from%20Implicit%20Feedback)
+
+- [Predicting the Next Location: A Recurrent Model with Spatial and Temporal Contexts. (2016), Liu Q, et al.](https://pdfs.semanticscholar.org/5bdf/0970034d0bb8a218c06ba3f2ddf97d29103d.pdf)
