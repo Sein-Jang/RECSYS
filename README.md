@@ -1,6 +1,6 @@
 # Recommender-System
 
-I'm interested in recommender system and deep running. The purpose of this repository is to organize papers and model implementations related to my study. If you have any comment, feel free contact me, please. tpdls24@gamil.com
+I'm interested in recommender system and deep learning. The purpose of this repository is to organize papers and model implementations related to my study. If you have any comment, feel free contact me, please. tpdls24@gamil.com
 
 
 ## List
